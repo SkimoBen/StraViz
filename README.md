@@ -7,4 +7,4 @@ Check out the youtube video for more information: https://www.youtube.com/watch?
 
 Basically run the Xcode porject on a iPhone, choose a workout, normalize it, print the raw data to the console. Copy the JSON from xcode console to a new file run.json file and load that file into the blender script. 
 
-
+You can load in the testRun.json file to make sure its working properly.
